@@ -1,6 +1,6 @@
 {
     "storageAccountName":"rhythmtemp",
-    "accessKey":"qlngYxHlug1UvHbUPxIQbBsyhW34G/9krNv6GOUaSw+ttfIr+sI1/O1sbk1RVF7LEBLYnAbC/bQt+AStl/psfQ==",
+    "accessKey":"<placeholder>",
     "destinationContainer":"destination",
     "ruleName":"all"
 }
