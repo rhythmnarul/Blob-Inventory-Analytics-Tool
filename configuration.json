@@ -1,6 +1,0 @@
-{
-    "storageAccountName":"rhythmtemp",
-    "accessKey":"<placeholder>",
-    "destinationContainer":"destination",
-    "ruleName":"all"
-}
