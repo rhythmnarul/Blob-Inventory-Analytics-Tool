@@ -49,10 +49,6 @@ There will be two options -:
      File Name -: reportdata  
 
 **Step 4:** Click ‘Review + Create’ for validation and then Click ‘Create’ to begin the deployment
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/106289147/177055875-e07052db-360f-45f2-ac6b-d8f5d2db10a6.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/106289147/177132144-4bce42fb-2c4b-4382-a8df-1f7ea414eb20.png" width="100" /> 
-</p>
 
 [Grant permissions to managed identity in Synapse workspace - Azure Synapse Analytics | Microsoft 	Docs ](https://docs.microsoft.com/en-us/azure/synapse-analytics/security/how-to-grant-workspace-managed-identity-permissions)
 
@@ -87,13 +83,6 @@ Note: Continue the process with default settings for autoscale, number of nodes.
 **Step 4:** Select ‘Enabled’ for Dynamically allocate executors 
 
 **Step 5:** Click ‘Review + Create’ for validation and then Click ‘Create’ to begin the deployment 
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/106289147/177056871-875f1322-05e4-4ff5-ab42-7c4bf75bafa5.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/106289147/177056877-75a335f1-e71b-4b82-8cd6-d486a99a1458.png" width="100" /> 
-</p>
-
-
 
 **2. Setting up Configuration File**
 
